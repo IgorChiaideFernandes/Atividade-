@@ -12,3 +12,6 @@ elif  idade == 21 or 25:
 
 else:
     print("voce não podera entrar na competição")
+
+
+VAi tomar no seu 
